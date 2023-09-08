@@ -9,7 +9,7 @@ Options trading can be complex, and evaluating the potential outcomes of differe
 
 * **Stock Information:** Input the spot price of the underlying stock to make the analysis context-specific.
 
-     <img src="https://github.com/oguz-deniz/OptionPNLPlotter/assets/98212476/9454790a-e449-4848-8ac2-c8a8e426a955" alt="Ekran Görüntüsü (209)" width="300">
+     <img src="https://github.com/oguz-deniz/OptionPNLPlotter/assets/98212476/4eeb7d83-fe7d-4957-b73b-736920714147" alt="Ekran Görüntüsü (211)" width="300">
 
 * **Arbitrage Detection:** The Option PNL Plotter includes an intelligent feature that detects potential arbitrage situations and highlights them for your attention. These alerts help you avoid unfavorable trading scenarios.
 
