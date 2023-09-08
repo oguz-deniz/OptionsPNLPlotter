@@ -2,6 +2,7 @@
  This project is designed to help you visualize and analyze the Profit and Loss (PNL) potential of various option strategies based on user-provided information.
 
 **Overview**
+
 Options trading can be complex, and evaluating the potential outcomes of different strategies is crucial for making informed decisions. The Option PNL Plotter simplifies this process by allowing you to specify your options and stock-related data. It then generates PNL plots to help you visualize how your chosen strategy may perform under various market conditions.
 
 **Key Features**
